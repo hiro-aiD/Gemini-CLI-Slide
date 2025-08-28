@@ -1,5 +1,5 @@
 ---
-theme: seriph
+theme: vercel
 layout: cover
 ---
 
